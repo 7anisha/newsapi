@@ -22,7 +22,7 @@ yarn install
 
 4. Obtain an API key from [News API](https://newsapi.org/) and replace <https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=57e509d82c1c4167a28daff6abc65344> in `App.js` with your actual API key:
 
-# javascript
+#javascript
 <https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=57e509d82c1c4167a28daff6abc65344>
 
 # Usage
